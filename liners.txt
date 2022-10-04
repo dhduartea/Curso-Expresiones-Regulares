@@ -13,12 +13,42 @@ http://instagram.com/p/blablablah
 csv1,csv2,csv3,csv4,csv5
 Rodrigo Jiménez Gutiérrez
 5556581111
-56-58-11-12
+56-58-11-12-11
+56.58.11.12-11
 #AAAFF3
 #321321
 #212a2e
 
+Números generales
+21s58s21
+21-58-21
+21.58.21
+21a58s21
+21 58 21
+
+Números colombianos
+3204703160
+6016563293
+8798745232
++575646549875
+0575646549875
++57524-213-9515
++57524-213-9515
+057524-213-9515
+524-213-9515
+524.213.9515
++57524.213.9515
+057524.213.9515
+57524.213.9515
+575242139515
 302-345-9876
+302 345 9876
+302s345s9876
+
+
+
+
+
 esto.es.un.mail+gmail@mail.com
 dominio.com
 [LOG ENTRY] [ERROR] The system is unstable
@@ -28,3 +58,53 @@ dominio.com
 [LOG ENTRY] [LOG] [user:@beco] Clicked here
 [LOG ENTRY] [LOG] [user:@beco] Rated the app
 [LOG ENTRY] [LOG] [user:@beco] Logged out
+
+^[A-Ú]$
+(\s?[A-Ú][a-ú]+){0,3}$
+
+Nombres 
+
+Camilo Sarmiento Gálvez
+Alejandro Pliego Abasto
+Milagros Reyes Japón
+Samuel París Arrabal
+Juan Pablo Tafalla
+Axel Gálvez Velázquez
+Óscar Montreal Aparicio
+Jacobo Pozo Tassis
+Guillermo Ordóñez Espiga
+Eduardo Pousa Curbelo
+Ivanna Bienvenida Kevin
+Ada Tasis López
+Luciana Sáenz García
+Florencia Sainz Márquz
+Catarina Cazalla Lombarda
+Paloma Gallo Perro
+Paloma gallo Perro
+
+Margarita Quesada Florez
+Vicente Fox Quesada
+Asunción Carballar
+Constanza Muñoz
+Manuel Andres García Márquez
+Iris Graciani
+Miguel Ignacio Rodríguez Álvarez
+Heli Miguel Robles Álvarez
+Verónika Sánchez Ascón
+Jhony Ulloa Montalva
+Mijahil Barra Li
+Kevin David Saldaña Perez
+Josie Nathaly Calle Valdiviezo
+Paul Thomas Vargas Domínguez
+Rodrigo Jiménez Gutiérrez
+Jhon Beltrán
+Jhon Fredy Beltrán
+Jhon Fredy Beltrán León
+Ándres Alberto
+Juan Carlos Herrera Martínez
+Andrés de Jesús Montes Rodríguez
+Thais Armada de Medina
+María Julia Herrera de Perez
+Xi Ping Lu
+Jhonnie B. Good Jr
+Adriana Villalobos F.
