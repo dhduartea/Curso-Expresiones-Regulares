@@ -114,6 +114,8 @@ Para este caso de nombres, solo sería un filtro como ejemplo si se nos da un no
 ## Otros Recursos
 - [Cheat sheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/).
 
+- [REGEX Python](https://platzi.com/blog/expresiones-regulares-python/).
+
 - [Practicar Jugando](https://regexone.com/).
 
 - [Probar Expresiones 1](https://regexr.com/).

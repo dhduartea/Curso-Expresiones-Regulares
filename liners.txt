@@ -18,7 +18,7 @@ Rodrigo Jiménez Gutiérrez
 #AAAFF3
 #321321
 #212a2e
-
+1235
 Números generales
 21s58s21
 21-58-21
@@ -45,9 +45,8 @@ Números colombianos
 302 345 9876
 302s345s9876
 
-
-
-
+Csv movies
+    ^\d+::(.*\S)\s?\((\d+)\).+$
 
 esto.es.un.mail+gmail@mail.com
 dominio.com
@@ -108,3 +107,19 @@ María Julia Herrera de Perez
 Xi Ping Lu
 Jhonnie B. Good Jr
 Adriana Villalobos F.
+
+urls query
+
+https://b3co.com/?s=fotografia&mode=search&module=blog
+https://www.google.com/search?q=regex+platzi&oq=regex+platzi&aqs=chrome..69i57j69i60.6885j0j9&sourceid=chrome&ie=UTF-8
+https://co.search.yahoo.com/search?p=flickr&fr=yfp-t&fp=1&toggle=1&cop=mss&ie=UTF-8
+
+Expresión obtener querys 
+    [\?&](\w+)=([^&]+)
+
+
+AB13513213232
+SD6545465465
+CD1321213213232132132
+SJ2121211321321231
+AD2121
